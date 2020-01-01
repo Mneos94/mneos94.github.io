@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset='utf-8'>
@@ -44,7 +42,7 @@
       <div class="inner clearfix">
         <section id="main-content">
           <h2 id="welcome-to-chao-mas-homepage">Welcome to Chao Ma’s homepage</h2>
-<h2 id="欢迎来到马超的主页">欢迎来到马超的主页</h2>
+<h2 id="欢迎来到天才马超的主页">欢迎来到天才马超的主页</h2>
 
 <p>You can use the <a href="https://github.com/Mneos94/mneos94.github.io/edit/master/index.md">editor on GitHub</a> to maintain and preview the content for your website in Markdown files.</p>
 
